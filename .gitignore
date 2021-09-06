@@ -1,3 +1,4 @@
 dist/*
+!dist/.gitignore
 package-lock.json
 node_modules

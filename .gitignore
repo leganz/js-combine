@@ -2,3 +2,6 @@ dist/*
 !dist/.gitignore
 package-lock.json
 node_modules
+!src/index.html
+!src/index.js 
+!src/styles.scss
